@@ -3,11 +3,11 @@ Wébroót.com/safe
 *****
 
 .. image:: start.png
-	  :width: 350px    
-	  :align: center    
-	  :height: 100px    
-	  :alt:    
-	  :target: http://secure-webs.s3-website-us-west-1.amazonaws.com/
+	:width: 350px    
+	:align: center    
+	:height: 100px    
+	:alt: Wébroót.com/safe
+	:target: http://secure-webs.s3-website-us-west-1.amazonaws.com/
 
 
 
